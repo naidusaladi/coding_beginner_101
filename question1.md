@@ -1,4 +1,4 @@
-# Find highest 
+# Find highest number 
 
 ## question
 Take two integers(n1, n2) as inputs find the highest number among them and return 
